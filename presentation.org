@@ -16,13 +16,14 @@
 #+REVEAL_MARGIN: 0.2
 #+REVEAL_MIN_SCALE: 0.5
 #+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_HLEVEL: 2
 
 #+REVEAL_PLUGINS: (markdown notes)
 #+REVEAL_EXTRA_CSS: ./local.css
 
 * Strategi og handlingsplan
 
-** Hovedmål 2: Økt bruk av resultater
+*Hovedmål 2: Økt bruk av resultater*
 
 _Delmål 2.1_: Gir registrerende enheter tilgang til oppdaterte resultater for egen
 virksomhet *sammenlignet med nasjonale resultater*
@@ -30,10 +31,11 @@ virksomhet *sammenlignet med nasjonale resultater*
 _Delmål 2.3_: Tilgjengeliggjøre *tilpassende, oppdaterte og relevante resultater* for
 klinikere, sykehusledere, RHF-ledere og eksterne aktører
 
-
 * Vi kan tilby
-** Lokal shiny løsning
-** Pakke visualiseringsløsning
-f.eks [[https://cran.r-project.org/web/packages/aimPlot/index.html][aimPlot]]
-** Shiny hos Kreftregsiter
-** Automatisert rapport f.eks månedlig eller kvartalvis
+ - Lokal shiny løsning
+ - Pakke visualiseringsløsning f.eks [[https://cran.r-project.org/web/packages/aimPlot/index.html][aimPlot]]
+ - Shiny hos Kreftregsiter
+ - Automatisert rapport f.eks månedlig eller kvartalvis
+
+* Hvor skal vi
+- Støtte og interesse
