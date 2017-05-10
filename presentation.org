@@ -34,8 +34,10 @@ klinikere, sykehusledere, RHF-ledere og eksterne aktører
 * Vi kan tilby
  - Lokal shiny løsning
  - Pakke visualiseringsløsning f.eks [[https://cran.r-project.org/web/packages/aimPlot/index.html][aimPlot]]
- - Shiny hos Kreftregsiter
- - Automatisert rapport f.eks månedlig eller kvartalvis
+ - MRS-Resultat [[https://app.powerbi.com/view?r=eyJrIjoiOTc5MjM1ODEtMGRlYi00NjU2LWJlYzgtODMyYmQ3OGYxN2E5IiwidCI6IjE2ZmY5NjNmLThlYWItNDEyZi04ZWE5LTlkYWVkMzA3OGI5OCIsImMiOjh9][kvalitetsindikator]]
+ - Shiny-server hos Kreftregsiter [[https://gallery.shinyapps.io/087-crandash/][example]]
+ - Automatisert rapport i pdf eller html f.eks månedlig eller kvartalvis
 
-* Hvor skal vi
-- Støtte og interesse
+* Veien videre
+
+???
