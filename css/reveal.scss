@@ -1215,13 +1215,13 @@ html:-moz-full-screen-ancestor {
 	}
 
 	.reveal .overlay.overlay-help .viewport .viewport-inner .title {
-		font-size: 20px;
+		  font-size: 22px;
 	}
 
 	.reveal .overlay.overlay-help .viewport .viewport-inner table {
 		border: 1px solid #fff;
 		border-collapse: collapse;
-		font-size: 14px;
+		  font-size: 17px;
 	}
 
 	.reveal .overlay.overlay-help .viewport .viewport-inner table th,
@@ -1375,5 +1375,3 @@ html:-moz-full-screen-ancestor {
 .zoomed .reveal .roll span:after {
 	visibility: hidden;
 }
-
-
