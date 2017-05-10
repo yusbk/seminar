@@ -7,7 +7,8 @@
 #+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:nil reveal_control:t
 #+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:nil num:nil
 #+OPTIONS: reveal_width:1200 reveal_height:800
-#+OPTIONS: toc:1
+
+#+OPTIONS: toc:nil
 
 #+REVEAL_SLIDE-NUMBER: t
 #+REVEAL_THEME: moon
@@ -23,17 +24,11 @@
 
 Hovedmål 2: Økt bruk av resultater
 
-Tiltak 2.1: Gir registrerende enheter tilgang til oppdaterte resultater for egen virksomhet sammenlignet med nasjonale resultater
+Delmål 2.1: Gir registrerende enheter tilgang til oppdaterte resultater for egen
+virksomhet *sammenlignet med nasjonale resultater*
 
-#+BEGIN_NOTES
-Utk tulis tkan '<' dan 'n' kemudian TAB
-#+END_NOTES
+Delmål 2.3: Tilgjengeliggjøre *tilpassende, oppdaterte og relevante resultater* for
+klinikere, sykehusledere, RHF-ledere og eksterne aktører
 
-* Point kedua
-Apa yang perlu ditulis. Tekan 's' utk buka *Speaker Notes*
-Sekiranya speaker note hanya blank screens. Kopi file presentation HTML ke
-=Reveal.ja= root directory dan buka semula di browser
 
-#+BEGIN_NOTES
-Testing-- 1.2.3
-#+END_NOTES
+* Hva har vi gjort
