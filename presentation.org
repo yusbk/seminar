@@ -20,7 +20,10 @@
 #+REVEAL_EXTRA_CSS: ./local.css
 
 * Strategi og handlingsplan
-Testing utk pembentangan baru
+
+Hovedmål 2: Økt bruk av resultater
+
+Tiltak 2.1: Gir registrerende enheter tilgang til oppdaterte resultater for egen virksomhet sammenlignet med nasjonale resultater
 
 #+BEGIN_NOTES
 Utk tulis tkan '<' dan 'n' kemudian TAB
