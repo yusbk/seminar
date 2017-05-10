@@ -32,7 +32,7 @@ _Delmål 2.3_: Tilgjengeliggjøre *tilpassende, oppdaterte og relevante resultat
 klinikere, sykehusledere, RHF-ledere og eksterne aktører
 
 * Vi kan tilby
- - Lokal shiny løsning
+ - Lokal shiny løsning f.eks [[file:shiny.jpeg][BDR]]
  - Pakke visualiseringsløsning f.eks [[https://cran.r-project.org/web/packages/aimPlot/index.html][aimPlot]]
  - MRS-Resultat [[https://app.powerbi.com/view?r=eyJrIjoiOTc5MjM1ODEtMGRlYi00NjU2LWJlYzgtODMyYmQ3OGYxN2E5IiwidCI6IjE2ZmY5NjNmLThlYWItNDEyZi04ZWE5LTlkYWVkMzA3OGI5OCIsImMiOjh9][kvalitetsindikator]]
  - Shiny-server hos Kreftregsiter ([[http://discovery.wmflabs.org/metrics/#kpis_summary][Eksempel]])
