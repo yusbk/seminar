@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Ekstern rapportering</title>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="./css/reveal.css"/>
+<link rel="stylesheet" href="./css/theme/moon.css" id="theme"/>
+<link rel="stylesheet" href="./local.css"/>
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide">
+<h1>Ekstern rapportering</h1>
+<h2></h2>
+<h2><a href="mailto:"></a></h2>
+<h2></h2>
+</section>
+<section id="table-of-contents">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#/slide-org3a6a10d">Strategi og handlingsplan</a></li>
+<li><a href="#/slide-orgdbfe608">Point kedua</a></li>
+</ul>
+</div>
+</div>
+</section>
+
+<section>
+<section id="slide-org3a6a10d">
+<h2 id="org3a6a10d">Strategi og handlingsplan</h2>
+<p>
+Hovedmål 2: Økt bruk av resultater
+</p>
+
+<p>
+Tiltak 2.1: Gir registrerende enheter tilgang til oppdaterte resultater for egen virksomhet sammenlignet med nasjonale resultater
+</p>
+
+<aside class="notes">
+<p>
+Utk tulis tkan '&lt;' dan 'n' kemudian TAB
+</p>
+
+</aside>
+
+</section>
+</section>
+<section>
+<section id="slide-orgdbfe608">
+<h2 id="orgdbfe608">Point kedua</h2>
+<p>
+Apa yang perlu ditulis. Tekan 's' utk buka <b>Speaker Notes</b>
+Sekiranya speaker note hanya blank screens. Kopi file presentation HTML ke
+<code>Reveal.ja</code> root directory dan buka semula di browser
+</p>
+
+<aside class="notes">
+<p>
+Testing&#x2013; 1.2.3
+</p>
+
+</aside>
+</section>
+</section>
+</div>
+</div>
+<script src="./lib/js/head.min.js"></script>
+<script src="./js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c',
+rollingLinks: true,
+keyboard: true,
+overview: true,
+width: 1200,
+height: 800,
+margin: 0.20,
+minScale: 0.50,
+maxScale: 2.50,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'cube', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>
