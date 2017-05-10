@@ -22,13 +22,18 @@
 
 * Strategi og handlingsplan
 
-Hovedmål 2: Økt bruk av resultater
+** Hovedmål 2: Økt bruk av resultater
 
-Delmål 2.1: Gir registrerende enheter tilgang til oppdaterte resultater for egen
+_Delmål 2.1_: Gir registrerende enheter tilgang til oppdaterte resultater for egen
 virksomhet *sammenlignet med nasjonale resultater*
 
-Delmål 2.3: Tilgjengeliggjøre *tilpassende, oppdaterte og relevante resultater* for
+_Delmål 2.3_: Tilgjengeliggjøre *tilpassende, oppdaterte og relevante resultater* for
 klinikere, sykehusledere, RHF-ledere og eksterne aktører
 
 
-* Hva har vi gjort
+* Vi kan tilby
+** Lokal shiny løsning
+** Pakke visualiseringsløsning
+f.eks [[https://cran.r-project.org/web/packages/aimPlot/index.html][aimPlot]]
+** Shiny hos Kreftregsiter
+** Automatisert rapport f.eks månedlig eller kvartalvis
